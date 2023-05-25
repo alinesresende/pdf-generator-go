@@ -12,8 +12,8 @@ type Data struct {
 }
 
 func main() {
-	h := html.New("temp")
-	wk := pdf.NewWkHtmlToPDF("temp")
+	h := html.New("tmp")
+	wk := pdf.NewWkHtmlToPDF("tmp")
 
 	dataHTML := Data{
 		Name: "Aline",
