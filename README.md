@@ -4,7 +4,7 @@
 
 In the application, I used the wkhtmltopdf package to build a pdf generator using Golang.
 
-### How do I use it:
+### How do use it:
 
 - Create your HTML document that you want to turn into a PDF
 - Run your HTML document through the tool.
