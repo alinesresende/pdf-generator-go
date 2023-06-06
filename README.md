@@ -7,7 +7,7 @@ In the application, I used the wkhtmltopdf package to build a pdf generator usin
 ### How do use it:
 
 - Create your HTML document that you want to turn into a PDF
-- Run your HTML document through the tool.
+- Run your HTML document through the tool
 
 ### ⚡ Do you want to access the application?
 
